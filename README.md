@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java Spring full stack
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me emmanuveljose20@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact:  Ada Lovelace wrote the world's first algorithm in the 1840s for a massive mechanical calculator
 
 <!---
