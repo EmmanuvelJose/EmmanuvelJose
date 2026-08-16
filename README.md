@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmmanuvelJose
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java Spring full stack
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking to collaborate on new projects and explore new technologies
 - 📫 How to reach me emmanuveljose20@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  Ada Lovelace wrote the world's first algorithm in the 1840s for a massive mechanical calculator
