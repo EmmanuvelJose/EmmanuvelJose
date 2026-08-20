@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmanuvelJose
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java Spring full stack
+- 🌱 I’m currently learning different programming languages
 - 💞️ I’m looking to collaborate on new projects and explore new technologies
 - 📫 How to reach me emmanuveljose20@gmail.com
 - 😄 Pronouns: He/Him
